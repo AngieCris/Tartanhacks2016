@@ -1,0 +1,2 @@
+- create a chatroom using Parse (we would be using fabric but they should work in similar way)
+http://attila.tumblr.com/post/21180235691/ios-tutorial-creating-a-chat-room-using-parsecom

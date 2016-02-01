@@ -1,0 +1,52 @@
+Meeting notes
+
+01/31 Meeting round 1
+
+This is what we had so far. Suggestions are very much welcomed
+
+1. Theme: 
+primary risk reduction of rape, sexual harassment
+reduction of bystander effect (i.e. being a bystander of some incident, ppl will less tend to take actions when in a crowd than alone)
+
+2. What we could do
+
+- General idea of what the app is doing: 
+
+One of the potential things where rape and sexual harassment happen is fraternity party (or other kind of campus parties)
+So we basically have an app that provides platform for party organizers to keep track of who’re going to the party, and who’s going with who, also the party goers can message each other anonymously if they spot suspicious things going on (like some drunk man takes an unwilling girl in a room and stuff).
+Thus bystander effect is reduced since ppl don’t know who sent the message
+
+
+- Some facts about the app:
+
+this app could be CMU specific
+
+
+- Some implementation details:
+
+a log-in page for party organizers
+once they log-in, they can add the party location, who’re going to the parties (the participants), their andrew IDs. When the party starts, the organizer checks everybody in (a lot of parties are member-only so I guess that could work)
+For every party there’s a chat room for the party goers and they could choose to send message anonymously
+And handy button for girls or guys to call for help, or just call 911
+Besides, we could have a CMU map and user can locate where he/she is, then send a helping message if they’re in trouble
+(we could work from this and make this app a real party organizer, and one of the features is to ensure the safety of participants, like sexual harassment)
+
+3. Platform and technology
+
+Definitely mobile app. Cause for such a thing ppl should be able to get access in handy.
+
+Front-end: swift
+Back-end: fabric (node.js maybe? but fabric sounds like an awesome framework)
+
+4. Plans
+Annie: UI stuff, build a simple log-in page, warm up with creating buttons and forms and stuff 
+(possibly, “log-in via Facebook” using a Facebook API)
+Angie & Shannon: back-end stuff, learn fabric
+
+Dina: joining either side is welcomed
+
+
+
+
+
+
